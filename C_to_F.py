@@ -1,4 +1,4 @@
-ci = input('Degree Celsius to Fahrenheit. Celsius to convert:')
+ci = input('Degree Celsius to Fahrenheit. Please type Celsius to convert:')
 not_a_number = 'Att!: C is not a numeric number. Please enter a number.'
 
 try:
